@@ -1,5 +1,5 @@
 {
-  "name": "@binark/toast",
+  "name": "binark-toast",
   "version": "1.0.0",
   "description": "Simple react toast library",
   "author": "kenany92",
